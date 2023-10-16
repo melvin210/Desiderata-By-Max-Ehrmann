@@ -1,0 +1,37 @@
+/* CSS Document */
+
+body {
+    background-image: url('1234.jpg');
+    background-size: 100% 100% 100%;
+    display: flex;
+    justify-content: center; /* Horizontally center the div */
+    align-items: center; /* Vertically center the div */
+    height: 200vh; /* Make the body full height of the viewport */
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+.centered-div {
+    background-color: rgba(237, 255, 236, 0.85);
+    width: 50em;
+    padding: 1em;
+    border-radius: 20px;
+}
+h1 {
+    color: #48435C;
+    font-size: 50px;
+    margin-bottom: 5px;
+}
+h2 {
+	color: #0B7189;
+	font-size: 25px;
+	margin-bottom: 10px;
+}
+
+p {
+    color: #48435C;
+    font-size: 20px;
+    margin: 5px 0;
+}
